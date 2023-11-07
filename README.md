@@ -1,4 +1,4 @@
-# NLP_StockPrediction based-on-News-Headlines
+# NLP_StockPrediction (based-on-News-Headlines)
 
 Stock often fluctuates based on the news headline. Briefly, evaluating the diversity of news headlines can provide valuable insights into the stock market's future. So, here sentiment of stock has been analyzed to predict a fall or rise in near future only using news paper headlines.
 
